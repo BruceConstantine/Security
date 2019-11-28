@@ -1,1 +1,1 @@
--- These file can't guarantee the safe without any vulnerabilities.
+-- These file can't guarantee they are safe and without any vulnerabilities.
